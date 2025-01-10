@@ -1,2 +1,2 @@
-# cs121_a_1
-activity 1
+# cs121_a_0
+activity 0
